@@ -37,6 +37,7 @@ jobs:
       - name: Deploy the Docs to GitHub Pages
         env:
           USE_SSH: true
+        run: ls
         run: |
           git config --global user.email "rascimat@gmail.com"
           git config --global user.name "rahultesla"
