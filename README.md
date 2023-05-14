@@ -1,6 +1,6 @@
-# DataMon
+# Datamon
 
-DataMon is an open-source business intelligence tool powered by generative AI. It enables users to transform natural language queries into insightful data visualizations and reports, empowering business users to gain valuable insights from their data effortlessly.
+Datamon is an open-source business intelligence tool powered by generative AI. It enables users to transform natural language queries into insightful data visualizations and reports, empowering business users to gain valuable insights from their data effortlessly.
 
 ## Features 🌟
 
