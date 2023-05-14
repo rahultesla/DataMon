@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatamon=self.webpackChunkdatamon||[]).push([[7615],{6381:a=>{a.exports=JSON.parse('{"permalink":"/Datamon/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

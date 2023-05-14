@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatamon=self.webpackChunkdatamon||[]).push([[5289],{5155:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/Datamon/blog/tags/facebook","allTagsPath":"/Datamon/blog/tags","count":1}')}}]);
