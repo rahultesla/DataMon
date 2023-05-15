@@ -14,13 +14,13 @@ Datamon is an open-source business intelligence tool powered by generative AI. I
 ## Project Under Development 🚧
 - You can Refer the [Todo List](TODO.md) to know the progress.
 
-⚠️ **Note: DataOracle is currently under active development. The project is not yet production-ready, and some features may be incomplete or subject to change. We welcome contributions, feedback, and suggestions as we work towards the stable release.**
+⚠️ **Note: Datamon is currently under active development. The project is not yet production-ready, and some features may be incomplete or subject to change. We welcome contributions, feedback, and suggestions as we work towards the stable release.**
 
 
 
 ### Contributing 🤝
 
-Contributions are welcome! If you would like to contribute to DataOracle, please follow these steps:
+Contributions are welcome! If you would like to contribute to Datamon, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -44,11 +44,11 @@ Please ensure that your code adheres to the project's coding conventions and inc
 
 ## License 📜
 
-DataOracle is released under the [Apache License](LICENSE).
+Datamon is released under the [Apache License](LICENSE).
 
 ## Acknowledgements 🙏
 
-We would like to thank the open-source community for their invaluable contributions and support in making DataOracle a powerful business intelligence tool.
+We would like to thank the open-source community for their invaluable contributions and support in making Datamon a powerful business intelligence tool.
 
 ## Contact 📧
 
